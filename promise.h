@@ -3,6 +3,7 @@
 
 #include <QObject>
 #include <QVariant>
+#include <functional>
 #include <QVariantMap>
 
 class Promise : public QObject
